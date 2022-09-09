@@ -1,2 +1,3 @@
 https://github.com/jeremyephron/simplegmail
+https://github.com/benjaminBoboul/Smart-squirrel
 
