@@ -2,3 +2,5 @@ https://github.com/jeremyephron/simplegmail
 https://github.com/benjaminBoboul/Smart-squirrel
 https://cs231n.github.io/
 https://developers.google.com/gmail/api/guides
+
+Word Validation and Detection: https://github.com/manankshastri/Trigger-Word-Detection
