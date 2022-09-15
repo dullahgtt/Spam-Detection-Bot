@@ -1,0 +1,4 @@
+Tasks Week of Sept. 12th:
+- Dan: Look into Flask, Gmail API, figure out API login details
+- Dullah: Look into Gmail API and information to store for neural network
+- Derek: Neural network research and characteristics needed for detection
